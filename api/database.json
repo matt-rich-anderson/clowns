@@ -2,6 +2,6 @@
     "clowns": [],
     "assignments": [],
     "partyRequests": [
-        {"id":1, "parentName":"Jane Doe", "childName": "John Jr.", "numAttendees": 20, "date":"1/13/2022", "length": 2}
+        {"id":1, "parentName":"Jane Doe", "childName": "John Jr.", "address": "123 Lane", "numAttendees": 20, "date":"1/13/2022", "length": 2}
     ]
   }

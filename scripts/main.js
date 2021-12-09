@@ -1,4 +1,5 @@
 import { ButtonsTheClown } from "./ButtonsTheClown.js"
+import { fetchRequests } from "./dataAccess.js"
 
 const mainContainer = document.querySelector("#container")
 
